@@ -1,0 +1,1 @@
+javac -cp antlr-4.5-complete.jar *.java
